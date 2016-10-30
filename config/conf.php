@@ -5,7 +5,7 @@ $data = array(
 	
 	'local' => [
 		'host' => 'localhost',
-		'base' => 'joris',
+		'base' => '',
 		'user' => 'root',
 		'pass' => ''
 	],
